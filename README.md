@@ -125,14 +125,6 @@ Control Compositor Config Accelerated
 - **LinkedIn**: [linkedin.com/in/rhroot](https://linkedin.com/in/rhroot)
 - **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tech)
 
-### **Professional Communication**
-
-# Preferred contact methods
-
-$ gpg --verify signature.asc # For secure communication
-$ git clone https://github.com/RHroot/portfolio.git
-$ nix-shell --run "python contact.py"
-
 ---
 
 ## 🏆 Recent Achievements
