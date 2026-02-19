@@ -1,7 +1,5 @@
-```markdown
 <!-- RHroot -->
 <div align="center">
-```
 
 ┌─────────────────────────────────────────────────────────────┐
 │ │
@@ -16,8 +14,6 @@
 │ │
 └─────────────────────────────────────────────────────────────┘
 
-````
-
 </div>
 
 <div align="center">
@@ -29,27 +25,22 @@
 
 </div>
 
----
-
 ## <span style="color: #5277C3">❯</span> whoami
 
-```yaml
 RHroot:
-  focus:      "Mathematical rigor → ML Foundations"
-  education:  "IITM BS (Accelerated)"
-  kernel:     "NixOS (declarative, reproducible, pure)"
-  wm:         "Hyprland (wayland compositor)"
-  editor:     "Neovim (lua-configured, LSP-native)"
-  mindset:    "Security-aware • Automation-first"
-  optimizing: "Long-term leverage, not short-term noise"
-````
+focus: "Mathematical rigor → ML Foundations"
+education: "IITM BS (Accelerated)"
+kernel: "NixOS (declarative, reproducible, pure)"
+wm: "Hyprland (wayland compositor)"
+editor: "Neovim (lua-configured, LSP-native)"
+mindset: "Security-aware • Automation-first"
+optimizing: "Long-term leverage, not short-term noise"
 
 ---
 
 ## <span style="color: #5277C3">❯</span> ls -la ./tech_stack/
 
-```diff
-+ Languages
+- Languages
   ├── Python (Data/ML)
   ├── C/C++ (Systems)
   ├── Rust (Performance/Safety)
@@ -58,34 +49,31 @@ RHroot:
   ├── Java (Enterprise)
   └── Lua (Neovim scripting)
 
-+ Environment
-  ├── OS:       NixOS (flakes + home-manager)
-  ├── WM:       Hyprland (dynamic tiling)
-  ├── Editor:   Neovim (0.10+)
+- Environment
+  ├── OS: NixOS (flakes + home-manager)
+  ├── WM: Hyprland (dynamic tiling)
+  ├── Editor: Neovim (0.10+)
   ├── Terminal: Kitty (GPU-accelerated)
-  └── Shell:    Zsh (declarative config)
-```
+  └── Shell: Zsh (declarative config)
 
 ---
 
 ## <span style="color: #5277C3">❯</span> cat ./current_direction.txt
 
-```
 [1] Mastering mathematical foundations for ML
-    └─> Linear Algebra → Probability → Optimization
+└─> Linear Algebra → Probability → Optimization
 
 [2] Designing reproducible system environments
-    └─> Nix flakes • Containerization • Infrastructure as Code
+└─> Nix flakes • Containerization • Infrastructure as Code
 
 [3] Building DevOps & optimization puzzles
-    └─> CI/CD pipelines • Performance profiling • Distributed systems
+└─> CI/CD pipelines • Performance profiling • Distributed systems
 
 [4] Performance-conscious programming
-    └─> Zero-cost abstractions • Memory layout • Cache efficiency
+└─> Zero-cost abstractions • Memory layout • Cache efficiency
 
 [5] Infrastructure thinking at scale
-    └─> Declarative configs • Immutable deployments • Observability
-```
+└─> Declarative configs • Immutable deployments • Observability
 
 ---
 
@@ -106,15 +94,12 @@ RHroot:
 
 ## <span style="color: #5277C3">❯</span> uptime
 
-```
-System Load:  Always building. Always refining.
-Last Commit:  Continuous iteration.
-Status:       ████████████████████ 100% Operational
-```
+System Load: Always building. Always refining.
+Last Commit: Continuous iteration.
+Status: ████████████████████ 100% Operational
 
 <div align="center">
 
 **`RHroot — Structured Thinking. Precise Execution.`**
 
 </div>
-```
