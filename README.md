@@ -20,35 +20,30 @@
 
 ## 🎯 About Me
 
-**21-year-old IIT Madras BS Data Science student** (initials R.H.) approaching academics and technology with **structured intensity** and **long-term strategy**. Currently in the final stretch of the Foundations stage, pushing to complete the degree at maximum allowed pace with a **target graduation around April 2028**.
-
-# Academic Strategy
-class AcademicPlan:
-    def __init__(self):
-        self.courses_per_term = 4  # Maximum allowed pace
-        self.remaining_foundation = ["Python Programming"]
-        self.target_graduation = "April 2028"
-        self.strategy = "Structured intensity with measurable milestones"
+**21-year-old IIT Madras BS Data Science student** approaching academics and technology with **structured intensity** and **long-term strategy**
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### **Core Philosophy**
+
 - **Linux-first systems thinker** with preference for declarative control
 - **Deep configuration over surface-level tools**
 - **Analytical precision** in problem-solving
 - **Leverage and measurable growth** mindset
 
 ### **Operating System & Tools**
+
 NixOS → Hyprland → Neovim → Kitty
-  ↓        ↓          ↓        ↓
-Declarative  Wayland   Lua      GPU
-Control     Compositor Config  Accelerated
+↓ ↓ ↓ ↓
+Declarative Wayland Lua GPU
+Control Compositor Config Accelerated
 
 ### **Programming Languages**
+
 | Primary | Secondary | Exploring |
-|---------|-----------|-----------|
+| ------- | --------- | --------- |
 | Python  | C/C++     | Zig       |
 |         | Rust      |           |
 |         | Go        |           |
@@ -56,97 +51,38 @@ Control     Compositor Config  Accelerated
 |         | Lua       |           |
 
 ### **Technical Domains**
+
 - 📊 **Data Science & Engineering**
 - 🔒 **Cybersecurity & Low-Level Optimization**
 - ⚙️ **DevOps Workflows & Automation**
 - 🚀 **Deployment Architectures**
-  - Frontend: GitHub Pages
-  - Backend: Render
-  - Infrastructure: NixOS Flakes
-
----
-
-## 🎓 Current Academic Focus
-
-### **IIT Madras BS Data Science Program**
-- **Stage**: Finishing Foundations
-- **Remaining**: Python Programming (final course)
-- **Pace**: 4 courses per term (maximum allowed)
-- **Strategy**: Structured intensity with long-term vision
-- **Target**: April 2028 graduation
-
-### **Academic Philosophy**
-# Academic progression as Nix expression
-{
-  strategy = "maximum_pace";
-  coursesPerTerm = 4;
-  focusAreas = [
-    "data_science"
-    "systems_thinking"
-    "technical_depth"
-  ];
-  graduationTarget = "2028-04";
-}
-
----
-
-## 🔧 Systems Configuration
-
-### **NixOS + Hyprland Setup**
-# ~/.config/nixos/configuration.nix
-{ config, pkgs, ... }: {
-  # Declarative system configuration
-  programs.neovim = {
-    enable = true;
-    vimAlias = true;
-    extraConfigLua = builtins.readFile ./nvim/init.lua;
-  };
-  
-  wayland.windowManager.hyprland = {
-    enable = true;
-    xwayland.enable = true;
-    settings = (import ./hyprland/settings.nix);
-  };
-  
-  programs.kitty = {
-    enable = true;
-    font = {
-      name = "FiraCode Nerd Font";
-      size = 12;
-    };
-  };
-}
-
-### **Development Workflow**
-# Terminal-based development environment
-$ kitty --session=dev-session
-$ nvim +Lazy # Lua-configured Neovim
-$ nix-shell --run "python script.py"
-$ git commit -m "feat: add measurable improvement"
 
 ---
 
 ## 📈 Growth Strategy
 
 ### **GitHub Contribution Engineering**
+
 - **High-engagement DevOps-style puzzles**
 - **Optimized contribution patterns**
 - **Measurable growth metrics**
 - **Strategic repository organization**
 
 ### **Technical Depth Building**
-| Area | Approach | Tools |
-|------|----------|-------|
-| Data Engineering | ETL pipelines | Python, Rust, Nix |
-| Cybersecurity | Binary analysis | C, Assembly, Ghidra |
-| DevOps | Infrastructure as Code | NixOS, GitHub Actions |
-| Automation | Script engineering | Python, Lua, Bash |
+
+| Area             | Approach               | Tools                 |
+| ---------------- | ---------------------- | --------------------- |
+| Data Engineering | ETL pipelines          | Python, Rust, Nix     |
+| Cybersecurity    | Binary analysis        | C, Assembly, Ghidra   |
+| DevOps           | Infrastructure as Code | NixOS, GitHub Actions |
+| Automation       | Script engineering     | Python, Lua, Bash     |
 
 ---
 
 ## 🎯 Technical Interests
 
 ### **Primary Focus Areas**
+
 1. **Data Science & Engineering**
    - Large-scale data processing
    - ML pipeline optimization
@@ -171,9 +107,10 @@ $ git commit -m "feat: add measurable improvement"
 
 ## 💡 Philosophy: Clarity, Control, Mastery
 
-> *"Approach every system with analytical precision. Build for leverage. Measure growth. Execute with discipline."*
+> _"Approach every system with analytical precision. Build for leverage. Measure growth. Execute with discipline."_
 
 ### **Core Principles**
+
 - ✅ **Declarative over imperative** - Control through configuration
 - ✅ **Depth over breadth** - Mastery through focused intensity
 - ✅ **Measurable over vague** - Growth through quantifiable metrics
@@ -190,8 +127,10 @@ $ git commit -m "feat: add measurable improvement"
 - **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tech)
 
 ### **Professional Communication**
+
 # Preferred contact methods
-$ gpg --verify signature.asc  # For secure communication
+
+$ gpg --verify signature.asc # For secure communication
 $ git clone https://github.com/RHroot/portfolio.git
 $ nix-shell --run "python contact.py"
 
@@ -222,60 +161,41 @@ $ nix-shell --run "python contact.py"
 ## 🛠️ Featured Projects
 
 ### **Data Engineering**
+
 - **ETL Pipeline Framework** - Rust/Python with Nix-managed dependencies
 - **Data Processing Engine** - High-performance data transformation
 
 ### **Cybersecurity**
+
 - **Binary Analysis Toolkit** - Memory forensics and exploitation
 - **Security Scanner** - Automated vulnerability detection
 
 ### **DevOps**
+
 - **NixOS Configuration** - Declarative system management
 - **CI/CD Pipeline** - Automated testing and deployment
 
 ---
 
-## 🎯 Future Roadmap
-
-# 2026-2028 Strategic Goals
-roadmap = {
-    "academic": {
-        "2026": "Complete Foundations stage",
-        "2027": "Advanced Data Science courses",
-        "2028": "Graduation + Industry placement"
-    },
-    "technical": {
-        "systems": "Deepen NixOS expertise",
-        "languages": "Master Rust systems programming",
-        "domains": "Specialize in data engineering"
-    },
-    "professional": {
-        "contributions": "High-impact open source",
-        "networking": "Strategic industry connections",
-        "portfolio": "Showcase technical depth"
-    }
-}
-
----
-
 ## 📝 Quote That Defines My Approach
 
-> *"The difference between good and great isn't talent—it's systems thinking, disciplined execution, and the relentless pursuit of mastery over mediocrity."*
+> _"The difference between good and great isn't talent—it's systems thinking, disciplined execution, and the relentless pursuit of mastery over mediocrity."_
 
 ---
 
 <div align="center">
 
 ### **Crafted with Precision**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-5277C3?style=flat-square&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
 [![NixOS](https://img.shields.io/badge/NixOS_Developer-5277C3?style=flat-square&logo=nixos)](https://nixos.org)
 
 <br>
 
-*Last updated: `date +%Y-%m-%d` • Configuration: NixOS 24.11 • Editor: Neovim • Terminal: Kitty*
+_Last updated: `date +%Y-%m-%d` • Configuration: NixOS 24.11 • Editor: Neovim • Terminal: Kitty_
 
 <br>
 
-**RHroot** | *Systems Thinker* | *IIT Madras BS Data Science* | *Clarity, Control, Mastery*
+**RHroot** | _Systems Thinker_ | _IIT Madras BS Data Science_ | _Clarity, Control, Mastery_
 
 </div>
