@@ -1,105 +1,281 @@
-<!-- RHroot -->
-<div align="center">
-
-┌─────────────────────────────────────────────────────────────┐
-│ │
-│ ██████╗ ██╗ ██╗██████╗ ██████╗ ██████╗ ████████╗ │
-│ ██╔══██╗██║ ██║██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝ │
-│ ██████╔╝███████║██████╔╝██║ ██║██║ ██║ ██║ │
-│ ██╔══██╗██╔══██║██╔══██╗██║ ██║██║ ██║ ██║ │
-│ ██║ ██║██║ ██║██║ ██║╚██████╔╝╚██████╔╝ ██║ │
-│ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝ │
-│ │
-│ Data Science • Systems • Linux │
-│ │
-└─────────────────────────────────────────────────────────────┘
-
-</div>
+# 👋 RHroot | Systems Thinker | IIT Madras BS Data Science
 
 <div align="center">
 
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=1a1a1a)](https://nixos.org)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=1a1a1a)](https://neovim.io)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a)](https://rust-lang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)](https://python.org)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5277C3&center=true&vCenter=true&width=600&lines=IIT+Madras+BS+Data+Science;NixOS+%7C+Hyprland+%7C+Neovim;Python+%7C+Rust+%7C+C%2FC%2B%2B;Data+Engineering+%7C+Cybersecurity;Mastery+Over+Mediocrity)](https://git.io/typing-svg)
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RHroot&theme=radical&border_radius=10)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHroot&layout=compact&theme=radical&border_radius=10&langs_count=8)](https://github.com/RHroot)
 
-## <span style="color: #5277C3">❯</span> whoami
+<br>
 
-RHroot:
-focus: "Mathematical rigor → ML Foundations"
-education: "IITM BS (Accelerated)"
-kernel: "NixOS (declarative, reproducible, pure)"
-wm: "Hyprland (wayland compositor)"
-editor: "Neovim (lua-configured, LSP-native)"
-mindset: "Security-aware • Automation-first"
-optimizing: "Long-term leverage, not short-term noise"
-
----
-
-## <span style="color: #5277C3">❯</span> ls -la ./tech_stack/
-
-- Languages
-  ├── Python (Data/ML)
-  ├── C/C++ (Systems)
-  ├── Rust (Performance/Safety)
-  ├── Go (Infrastructure)
-  ├── Zig (Systems v2)
-  ├── Java (Enterprise)
-  └── Lua (Neovim scripting)
-
-- Environment
-  ├── OS: NixOS (flakes + home-manager)
-  ├── WM: Hyprland (dynamic tiling)
-  ├── Editor: Neovim (0.10+)
-  ├── Terminal: Kitty (GPU-accelerated)
-  └── Shell: Zsh (declarative config)
-
----
-
-## <span style="color: #5277C3">❯</span> cat ./current_direction.txt
-
-[1] Mastering mathematical foundations for ML
-└─> Linear Algebra → Probability → Optimization
-
-[2] Designing reproducible system environments
-└─> Nix flakes • Containerization • Infrastructure as Code
-
-[3] Building DevOps & optimization puzzles
-└─> CI/CD pipelines • Performance profiling • Distributed systems
-
-[4] Performance-conscious programming
-└─> Zero-cost abstractions • Memory layout • Cache efficiency
-
-[5] Infrastructure thinking at scale
-└─> Declarative configs • Immutable deployments • Observability
-
----
-
-## <span style="color: #5277C3">❯</span> ./philosophy --core-principles
-
-<div align="center">
-
-| Principle                  | Implementation                                                    |
-| -------------------------- | ----------------------------------------------------------------- |
-| **Systems over shortcuts** | Declarative configs, reproducible builds, documented abstractions |
-| **Depth over trends**      | Mathematical foundations before frameworks, source before syntax  |
-| **Signal over aesthetics** | Functional minimalism, no bloat, purpose-driven design            |
-| **Precision over noise**   | Type safety, static analysis, deterministic deployments           |
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge)](https://nixos.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)](https://rust-lang.org)
+[![IIT Madras](https://img.shields.io/badge/IIT_Madras-003366?logo=education&logoColor=white&style=for-the-badge)](https://iitm.ac.in)
 
 </div>
 
 ---
 
-## <span style="color: #5277C3">❯</span> uptime
+## 🎯 About Me
 
-System Load: Always building. Always refining.
-Last Commit: Continuous iteration.
-Status: ████████████████████ 100% Operational
+**21-year-old IIT Madras BS Data Science student** (initials R.H.) approaching academics and technology with **structured intensity** and **long-term strategy**. Currently in the final stretch of the Foundations stage, pushing to complete the degree at maximum allowed pace with a **target graduation around April 2028**.
+
+# Academic Strategy
+class AcademicPlan:
+    def __init__(self):
+        self.courses_per_term = 4  # Maximum allowed pace
+        self.remaining_foundation = ["Python Programming"]
+        self.target_graduation = "April 2028"
+        self.strategy = "Structured intensity with measurable milestones"
+
+---
+
+## 🛠️ Technical Stack
+
+### **Core Philosophy**
+- **Linux-first systems thinker** with preference for declarative control
+- **Deep configuration over surface-level tools**
+- **Analytical precision** in problem-solving
+- **Leverage and measurable growth** mindset
+
+### **Operating System & Tools**
+NixOS → Hyprland → Neovim → Kitty
+  ↓        ↓          ↓        ↓
+Declarative  Wayland   Lua      GPU
+Control     Compositor Config  Accelerated
+
+### **Programming Languages**
+| Primary | Secondary | Exploring |
+|---------|-----------|-----------|
+| Python  | C/C++     | Zig       |
+|         | Rust      |           |
+|         | Go        |           |
+|         | Java      |           |
+|         | Lua       |           |
+
+### **Technical Domains**
+- 📊 **Data Science & Engineering**
+- 🔒 **Cybersecurity & Low-Level Optimization**
+- ⚙️ **DevOps Workflows & Automation**
+- 🚀 **Deployment Architectures**
+  - Frontend: GitHub Pages
+  - Backend: Render
+  - Infrastructure: NixOS Flakes
+
+---
+
+## 🎓 Current Academic Focus
+
+### **IIT Madras BS Data Science Program**
+- **Stage**: Finishing Foundations
+- **Remaining**: Python Programming (final course)
+- **Pace**: 4 courses per term (maximum allowed)
+- **Strategy**: Structured intensity with long-term vision
+- **Target**: April 2028 graduation
+
+### **Academic Philosophy**
+# Academic progression as Nix expression
+{
+  strategy = "maximum_pace";
+  coursesPerTerm = 4;
+  focusAreas = [
+    "data_science"
+    "systems_thinking"
+    "technical_depth"
+  ];
+  graduationTarget = "2028-04";
+}
+
+---
+
+## 🔧 Systems Configuration
+
+### **NixOS + Hyprland Setup**
+# ~/.config/nixos/configuration.nix
+{ config, pkgs, ... }: {
+  # Declarative system configuration
+  programs.neovim = {
+    enable = true;
+    vimAlias = true;
+    extraConfigLua = builtins.readFile ./nvim/init.lua;
+  };
+  
+  wayland.windowManager.hyprland = {
+    enable = true;
+    xwayland.enable = true;
+    settings = (import ./hyprland/settings.nix);
+  };
+  
+  programs.kitty = {
+    enable = true;
+    font = {
+      name = "FiraCode Nerd Font";
+      size = 12;
+    };
+  };
+}
+
+### **Development Workflow**
+# Terminal-based development environment
+$ kitty --session=dev-session
+$ nvim +Lazy # Lua-configured Neovim
+$ nix-shell --run "python script.py"
+$ git commit -m "feat: add measurable improvement"
+
+---
+
+## 📈 Growth Strategy
+
+### **GitHub Contribution Engineering**
+- **High-engagement DevOps-style puzzles**
+- **Optimized contribution patterns**
+- **Measurable growth metrics**
+- **Strategic repository organization**
+
+### **Technical Depth Building**
+| Area | Approach | Tools |
+|------|----------|-------|
+| Data Engineering | ETL pipelines | Python, Rust, Nix |
+| Cybersecurity | Binary analysis | C, Assembly, Ghidra |
+| DevOps | Infrastructure as Code | NixOS, GitHub Actions |
+| Automation | Script engineering | Python, Lua, Bash |
+
+---
+
+## 🎯 Technical Interests
+
+### **Primary Focus Areas**
+1. **Data Science & Engineering**
+   - Large-scale data processing
+   - ML pipeline optimization
+   - Data infrastructure design
+
+2. **Cybersecurity**
+   - Binary exploitation
+   - Memory forensics
+   - Secure systems design
+
+3. **DevOps & Automation**
+   - CI/CD pipeline engineering
+   - Infrastructure automation
+   - Deployment optimization
+
+4. **Low-Level Systems**
+   - Performance optimization
+   - Memory management
+   - System-level programming
+
+---
+
+## 💡 Philosophy: Clarity, Control, Mastery
+
+> *"Approach every system with analytical precision. Build for leverage. Measure growth. Execute with discipline."*
+
+### **Core Principles**
+- ✅ **Declarative over imperative** - Control through configuration
+- ✅ **Depth over breadth** - Mastery through focused intensity
+- ✅ **Measurable over vague** - Growth through quantifiable metrics
+- ✅ **Systems thinking** - Understanding the complete stack
+- ✅ **Long-term strategy** - Building sustainable technical depth
+
+---
+
+## 📬 Connect & Collaborate
+
+- **GitHub**: [@RHroot](https://github.com/RHroot)
+- **Email**: `contact [at] rhroot [dot] dev`
+- **LinkedIn**: [linkedin.com/in/rhroot](https://linkedin.com/in/rhroot)
+- **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tech)
+
+### **Professional Communication**
+# Preferred contact methods
+$ gpg --verify signature.asc  # For secure communication
+$ git clone https://github.com/RHroot/portfolio.git
+$ nix-shell --run "python contact.py"
+
+---
+
+## 🏆 Recent Achievements
+
+- ✅ **Academic**: Accelerated BS Data Science program completion
+- ✅ **Technical**: Full NixOS + Hyprland workflow mastery
+- ✅ **Systems**: Deep configuration expertise across stack
+- ✅ **Strategy**: Optimized GitHub contribution patterns
+- ✅ **Growth**: Multilingual programming proficiency
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**`RHroot — Structured Thinking. Precise Execution.`**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RHroot&theme=radical&show_icons=true&border_radius=10)](https://github.com/RHroot)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RHroot&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+### **Data Engineering**
+- **ETL Pipeline Framework** - Rust/Python with Nix-managed dependencies
+- **Data Processing Engine** - High-performance data transformation
+
+### **Cybersecurity**
+- **Binary Analysis Toolkit** - Memory forensics and exploitation
+- **Security Scanner** - Automated vulnerability detection
+
+### **DevOps**
+- **NixOS Configuration** - Declarative system management
+- **CI/CD Pipeline** - Automated testing and deployment
+
+---
+
+## 🎯 Future Roadmap
+
+# 2026-2028 Strategic Goals
+roadmap = {
+    "academic": {
+        "2026": "Complete Foundations stage",
+        "2027": "Advanced Data Science courses",
+        "2028": "Graduation + Industry placement"
+    },
+    "technical": {
+        "systems": "Deepen NixOS expertise",
+        "languages": "Master Rust systems programming",
+        "domains": "Specialize in data engineering"
+    },
+    "professional": {
+        "contributions": "High-impact open source",
+        "networking": "Strategic industry connections",
+        "portfolio": "Showcase technical depth"
+    }
+}
+
+---
+
+## 📝 Quote That Defines My Approach
+
+> *"The difference between good and great isn't talent—it's systems thinking, disciplined execution, and the relentless pursuit of mastery over mediocrity."*
+
+---
+
+<div align="center">
+
+### **Crafted with Precision**
+[![License: MIT](https://img.shields.io/badge/License-MIT-5277C3?style=flat-square&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
+[![NixOS](https://img.shields.io/badge/NixOS_Developer-5277C3?style=flat-square&logo=nixos)](https://nixos.org)
+
+<br>
+
+*Last updated: `date +%Y-%m-%d` • Configuration: NixOS 24.11 • Editor: Neovim • Terminal: Kitty*
+
+<br>
+
+**RHroot** | *Systems Thinker* | *IIT Madras BS Data Science* | *Clarity, Control, Mastery*
 
 </div>
