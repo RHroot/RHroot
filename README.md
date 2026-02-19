@@ -1,10 +1,22 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-# R.H.
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" fill="url(#grad1)" rx="15"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="48" fill="#ffffff" font-family="monospace" font-weight="bold">
+        RHroot
+  </text>
+</svg>
 
-### `RHroot`
-
-**Data Science Student • Systems Architect in Progress • Linux Power User**
+### Data Science • Systems Engineering • Linux Architecture
 
 <i>Clarity at the Core.</i>
 
@@ -12,74 +24,65 @@
 
 ---
 
-## ░ About
+## ▣ PROFILE
 
-I design systems that are deliberate, reproducible, and scalable.
+I build structured systems with mathematical depth and operational precision.
 
-Currently pursuing the IITM BS degree on an accelerated trajectory, with strong emphasis on:
+🎓 IITM BS Program (Accelerated Track)  
+🧠 Focused on Linear Algebra → ML Foundations  
+🐧 NixOS daily driver  
+🔐 Security-aware engineering mindset  
+⚙️ Automation-first workflow design
 
-- Mathematical foundations (Linear Algebra → ML)
-- Infrastructure & reproducible environments
-- Automation-first engineering
-- Security-aware system design
-
-I do not build for aesthetics alone.  
-I build for structure, leverage, and long-term precision.
+I optimize for long-term leverage — not short-term noise.
 
 ---
 
-## ░ Technical Arsenal
+## ▣ TECH STACK
 
 ### Languages
 
-```
-Python   C   C++   Rust   Go   Zig   Java   Lua
+```bash
+Python | C | C++ | Rust | Go | Zig | Java | Lua
 ```
 
-### Systems Stack
+### Environment
 
-```
-OS            : NixOS (Declarative Configuration)
-Window Manager: Hyprland
-Editor        : Neovim
-Terminal      : Kitty
-Workflow      : Git-driven, Reproducible, Minimal
+```bash
+OS             → NixOS
+Window Manager → Hyprland
+Editor         → Neovim
+Terminal       → Kitty
+Workflow       → Declarative • Reproducible • Minimal
 ```
 
 ---
 
-## ░ Engineering Direction
+## ▣ CURRENT DIRECTION
 
-- Deep mastery of linear algebra for machine learning
-- Optimization thinking in real-world systems
-- DevOps & infrastructure puzzle design
+- Mastering mathematical rigor for ML
+- Designing reproducible system environments
+- Building DevOps & optimization puzzles
 - Performance-conscious programming
-- Scalable configuration architecture
+- Infrastructure thinking at scale
 
 ---
 
-## ░ Design Philosophy
+## ▣ ENGINEERING PHILOSOPHY
 
 ```
-Systems > Hacks
-Depth   > Trends
-Signal  > Noise
-Clarity > Complexity
+Systems over shortcuts
+Depth over trends
+Signal over aesthetics
+Precision over noise
 ```
-
----
-
-## ░ Operating Principle
-
-I refine.  
-I optimize.  
-I remove friction.  
-I build foundations that last.
 
 ---
 
 <div align="center">
 
-<sub>RHroot — Structured thinking. Precise execution.</sub>
+### ⚡ Always Building. Always Refining.
+
+<sub>RHroot — Structured Thinking. Precise Execution.</sub>
 
 </div>
