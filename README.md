@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5277C3&center=true&vCenter=true&width=600&lines=IIT+Madras+BS+Data+Science;NixOS+%7C+Hyprland+%7C+Neovim;Python+%7C+Rust+%7C+C%2FC%2B%2B;Data+Engineering+%7C+Cybersecurity;Mastery+Over+Mediocrity)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RHroot&theme=radical&border_radius=10)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHroot&layout=compact&theme=radical&border_radius=10&langs_count=8)](https://github.com/RHroot)
 
 <br>
 
@@ -149,8 +148,6 @@ $ nix-shell --run "python contact.py"
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RHroot&theme=radical&show_icons=true&border_radius=10)](https://github.com/RHroot)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RHroot&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
