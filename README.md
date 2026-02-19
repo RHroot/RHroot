@@ -1,88 +1,120 @@
-<!-- HEADER BANNER -->
+```markdown
+<!-- RHroot -->
+<div align="center">
+```
+
+┌─────────────────────────────────────────────────────────────┐
+│ │
+│ ██████╗ ██╗ ██╗██████╗ ██████╗ ██████╗ ████████╗ │
+│ ██╔══██╗██║ ██║██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝ │
+│ ██████╔╝███████║██████╔╝██║ ██║██║ ██║ ██║ │
+│ ██╔══██╗██╔══██║██╔══██╗██║ ██║██║ ██║ ██║ │
+│ ██║ ██║██║ ██║██║ ██║╚██████╔╝╚██████╔╝ ██║ │
+│ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝ │
+│ │
+│ Data Science • Systems • Linux │
+│ │
+└─────────────────────────────────────────────────────────────┘
+
+````
+
+</div>
+
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="800" height="180" fill="url(#grad1)" rx="15"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="48" fill="#ffffff" font-family="monospace" font-weight="bold">
-        RHroot
-  </text>
-</svg>
-
-### Data Science • Systems Engineering • Linux Architecture
-
-<i>Clarity at the Core.</i>
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=1a1a1a)](https://nixos.org)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=1a1a1a)](https://neovim.io)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a)](https://rust-lang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)](https://python.org)
 
 </div>
 
 ---
 
-## ▣ PROFILE
+## <span style="color: #5277C3">❯</span> whoami
 
-I build structured systems with mathematical depth and operational precision.
-
-🎓 IITM BS Program (Accelerated Track)  
-🧠 Focused on Linear Algebra → ML Foundations  
-🐧 NixOS daily driver  
-🔐 Security-aware engineering mindset  
-⚙️ Automation-first workflow design
-
-I optimize for long-term leverage — not short-term noise.
-
----
-
-## ▣ TECH STACK
-
-### Languages
-
-```bash
-Python | C | C++ | Rust | Go | Zig | Java | Lua
-```
-
-### Environment
-
-```bash
-OS             → NixOS
-Window Manager → Hyprland
-Editor         → Neovim
-Terminal       → Kitty
-Workflow       → Declarative • Reproducible • Minimal
-```
+```yaml
+RHroot:
+  focus:      "Mathematical rigor → ML Foundations"
+  education:  "IITM BS (Accelerated)"
+  kernel:     "NixOS (declarative, reproducible, pure)"
+  wm:         "Hyprland (wayland compositor)"
+  editor:     "Neovim (lua-configured, LSP-native)"
+  mindset:    "Security-aware • Automation-first"
+  optimizing: "Long-term leverage, not short-term noise"
+````
 
 ---
 
-## ▣ CURRENT DIRECTION
+## <span style="color: #5277C3">❯</span> ls -la ./tech_stack/
 
-- Mastering mathematical rigor for ML
-- Designing reproducible system environments
-- Building DevOps & optimization puzzles
-- Performance-conscious programming
-- Infrastructure thinking at scale
+```diff
++ Languages
+  ├── Python (Data/ML)
+  ├── C/C++ (Systems)
+  ├── Rust (Performance/Safety)
+  ├── Go (Infrastructure)
+  ├── Zig (Systems v2)
+  ├── Java (Enterprise)
+  └── Lua (Neovim scripting)
+
++ Environment
+  ├── OS:       NixOS (flakes + home-manager)
+  ├── WM:       Hyprland (dynamic tiling)
+  ├── Editor:   Neovim (0.10+)
+  ├── Terminal: Kitty (GPU-accelerated)
+  └── Shell:    Zsh (declarative config)
+```
 
 ---
 
-## ▣ ENGINEERING PHILOSOPHY
+## <span style="color: #5277C3">❯</span> cat ./current_direction.txt
 
 ```
-Systems over shortcuts
-Depth over trends
-Signal over aesthetics
-Precision over noise
+[1] Mastering mathematical foundations for ML
+    └─> Linear Algebra → Probability → Optimization
+
+[2] Designing reproducible system environments
+    └─> Nix flakes • Containerization • Infrastructure as Code
+
+[3] Building DevOps & optimization puzzles
+    └─> CI/CD pipelines • Performance profiling • Distributed systems
+
+[4] Performance-conscious programming
+    └─> Zero-cost abstractions • Memory layout • Cache efficiency
+
+[5] Infrastructure thinking at scale
+    └─> Declarative configs • Immutable deployments • Observability
 ```
 
 ---
+
+## <span style="color: #5277C3">❯</span> ./philosophy --core-principles
 
 <div align="center">
 
-### ⚡ Always Building. Always Refining.
-
-<sub>RHroot — Structured Thinking. Precise Execution.</sub>
+| Principle                  | Implementation                                                    |
+| -------------------------- | ----------------------------------------------------------------- |
+| **Systems over shortcuts** | Declarative configs, reproducible builds, documented abstractions |
+| **Depth over trends**      | Mathematical foundations before frameworks, source before syntax  |
+| **Signal over aesthetics** | Functional minimalism, no bloat, purpose-driven design            |
+| **Precision over noise**   | Type safety, static analysis, deterministic deployments           |
 
 </div>
+
+---
+
+## <span style="color: #5277C3">❯</span> uptime
+
+```
+System Load:  Always building. Always refining.
+Last Commit:  Continuous iteration.
+Status:       ████████████████████ 100% Operational
+```
+
+<div align="center">
+
+**`RHroot — Structured Thinking. Precise Execution.`**
+
+</div>
+```
