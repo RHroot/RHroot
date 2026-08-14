@@ -118,7 +118,7 @@ Control Compositor Config Accelerated
 ## 📬 Connect & Collaborate
 
 - **GitHub**: [@RHroot](https://github.com/RHroot)
-- **Email**: [Mail](mailto:rishabhhaldiya18@yahoo.com)
+- **Email**: <rishabhhaldiya18@yahoo.com>
 - **LinkedIn**: [linkedin.com/in/rhroot](https://linkedin.com/in/rhroot)
 - **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tt)
 
