@@ -120,7 +120,7 @@ Control Compositor Config Accelerated
 - **GitHub**: [@RHroot](https://github.com/RHroot)
 - **Email**: <rishabhhaldiya18@yahoo.com>
 - **LinkedIn**: [linkedin.com/in/rhroot](https://linkedin.com/in/rhroot)
-- **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tt)
+- **Twitter**: [@RHroot_tt](https://twitter.com/RHroot_tt)
 
 ---
 
