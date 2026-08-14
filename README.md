@@ -43,11 +43,8 @@ Control Compositor Config Accelerated
 
 | Primary | Secondary | Exploring |
 | ------- | --------- | --------- |
-| Python  | C/C++     | Zig       |
-|         | Rust      |           |
-|         | Go        |           |
-|         | Java      |           |
-|         | Lua       |           |
+| Python  | Lua       | C/C++     |
+|         |           | Rust      |
 
 ### **Technical Domains**
 
