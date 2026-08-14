@@ -118,16 +118,15 @@ Control Compositor Config Accelerated
 ## 📬 Connect & Collaborate
 
 - **GitHub**: [@RHroot](https://github.com/RHroot)
-- **Email**: `contact [at] rhroot [dot] dev`
+- **Email**: `contact [dot] r [at] myyahoo [dot] com`
 - **LinkedIn**: [linkedin.com/in/rhroot](https://linkedin.com/in/rhroot)
-- **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tech)
+- **Twitter**: [@RHroot_tech](https://twitter.com/RHroot_tt)
 
 ---
 
 ## 🏆 Recent Achievements
 
-- ✅ **Academic**: Accelerated BS Data Science program completion
-- ✅ **Technical**: Full NixOS + Hyprland workflow mastery
+- ✅ **Academic**: BS Data Science program in progress
 - ✅ **Systems**: Deep configuration expertise across stack
 - ✅ **Strategy**: Optimized GitHub contribution patterns
 - ✅ **Growth**: Multilingual programming proficiency
@@ -172,15 +171,6 @@ Control Compositor Config Accelerated
 <div align="center">
 
 ### **Crafted with Precision**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-5277C3?style=flat-square&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
-[![NixOS](https://img.shields.io/badge/NixOS_Developer-5277C3?style=flat-square&logo=nixos)](https://nixos.org)
-
-<br>
-
-_Last updated: `date +%Y-%m-%d` • Configuration: NixOS 24.11 • Editor: Neovim • Terminal: Kitty_
-
-<br>
 
 **RHroot** | _Systems Thinker_ | _IIT Madras BS Data Science_ | _Clarity, Control, Mastery_
 
